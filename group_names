@@ -2,13 +2,8 @@
 title: "Collaborating with GitHub"
 subtitle: Adrien Allorant - Math/Stat 241 - Week 3
 output: pdf_document
-Names: Emma Campbell
-Maya Alicia Gutierrez
-Favorite Candy: 
----
-<<<<<<< Updated upstream
-
+Names: Emma Campbell, Maya Alicia Gutierrez, Dashiell Ward
 favorite candy: 3 musketeers
 favorite candy: liqourice
-=======
->>>>>>> Stashed changes
+favorite candy: rainbow sour belts
+---
